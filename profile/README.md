@@ -38,5 +38,6 @@ We believe that research in AI — especially research that touches sensitive da
 </p>
 
 <p align="center">
-  Designed & powered in Switzerland 🇨🇭
+  Designed & powered in Switzerland 🇨🇭<br>
+  Lugano · Wilmington · Putignano
 </p>
